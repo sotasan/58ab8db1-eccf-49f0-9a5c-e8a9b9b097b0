@@ -1,5 +1,5 @@
 {
-  "name": "example-basic",
+  "name": "abstracted-shower",
   "type": "module",
   "scripts": {
     "partytown": "partytown copylib public/~partytown",
